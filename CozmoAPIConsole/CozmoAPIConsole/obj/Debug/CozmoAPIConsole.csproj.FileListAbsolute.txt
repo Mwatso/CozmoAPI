@@ -1,0 +1,11 @@
+C:\Users\mwats\Documents\GitHub\CozmoAPI\CozmoAPIConsole\CozmoAPIConsole\bin\Debug\CozmoAPIConsole.exe.config
+C:\Users\mwats\Documents\GitHub\CozmoAPI\CozmoAPIConsole\CozmoAPIConsole\bin\Debug\CozmoAPIConsole.exe
+C:\Users\mwats\Documents\GitHub\CozmoAPI\CozmoAPIConsole\CozmoAPIConsole\bin\Debug\CozmoAPIConsole.pdb
+C:\Users\mwats\Documents\GitHub\CozmoAPI\CozmoAPIConsole\CozmoAPIConsole\bin\Debug\cozmoapi.dll
+C:\Users\mwats\Documents\GitHub\CozmoAPI\CozmoAPIConsole\CozmoAPIConsole\bin\Debug\CladCSharp.dll
+C:\Users\mwats\Documents\GitHub\CozmoAPI\CozmoAPIConsole\CozmoAPIConsole\bin\Debug\cozmoapi.pdb
+C:\Users\mwats\Documents\GitHub\CozmoAPI\CozmoAPIConsole\CozmoAPIConsole\obj\Debug\CozmoAPIConsole.csprojAssemblyReference.cache
+C:\Users\mwats\Documents\GitHub\CozmoAPI\CozmoAPIConsole\CozmoAPIConsole\obj\Debug\CozmoAPIConsole.csproj.CoreCompileInputs.cache
+C:\Users\mwats\Documents\GitHub\CozmoAPI\CozmoAPIConsole\CozmoAPIConsole\obj\Debug\CozmoAPIConsole.csproj.CopyComplete
+C:\Users\mwats\Documents\GitHub\CozmoAPI\CozmoAPIConsole\CozmoAPIConsole\obj\Debug\CozmoAPIConsole.exe
+C:\Users\mwats\Documents\GitHub\CozmoAPI\CozmoAPIConsole\CozmoAPIConsole\obj\Debug\CozmoAPIConsole.pdb

@@ -1,0 +1,15 @@
+C:\Users\mwats\Downloads\cozmo-csharp-sdk-master\cozmo-csharp-sdk-master\csharp_interface\bin\Debug\CladCSharp.dll
+C:\Users\mwats\Downloads\cozmo-csharp-sdk-master\cozmo-csharp-sdk-master\csharp_interface\obj\x86\Debug\cozmoapi.csprojAssemblyReference.cache
+C:\Users\mwats\Downloads\cozmo-csharp-sdk-master\cozmo-csharp-sdk-master\csharp_interface\obj\x86\Debug\cozmoapi.csproj.CoreCompileInputs.cache
+C:\Users\mwats\Downloads\cozmo-csharp-sdk-master\cozmo-csharp-sdk-master\csharp_interface\obj\x86\Debug\cozmoapi.csproj.CopyComplete
+C:\Users\mwats\Downloads\cozmo-csharp-sdk-master\cozmo-csharp-sdk-master\csharp_interface\bin\Debug\cozmoapi.dll
+C:\Users\mwats\Downloads\cozmo-csharp-sdk-master\cozmo-csharp-sdk-master\csharp_interface\bin\Debug\cozmoapi.pdb
+C:\Users\mwats\Downloads\cozmo-csharp-sdk-master\cozmo-csharp-sdk-master\csharp_interface\obj\x86\Debug\cozmoapi.dll
+C:\Users\mwats\Downloads\cozmo-csharp-sdk-master\cozmo-csharp-sdk-master\csharp_interface\obj\x86\Debug\cozmoapi.pdb
+C:\Users\mwats\Documents\GitHub\CozmoAPI\CozmoAPIConsole\CozmoAPIConsole\cozmoapi\bin\Debug\cozmoapi.dll
+C:\Users\mwats\Documents\GitHub\CozmoAPI\CozmoAPIConsole\CozmoAPIConsole\cozmoapi\bin\Debug\cozmoapi.pdb
+C:\Users\mwats\Documents\GitHub\CozmoAPI\CozmoAPIConsole\CozmoAPIConsole\cozmoapi\obj\x86\Debug\cozmoapi.csprojAssemblyReference.cache
+C:\Users\mwats\Documents\GitHub\CozmoAPI\CozmoAPIConsole\CozmoAPIConsole\cozmoapi\obj\x86\Debug\cozmoapi.csproj.CoreCompileInputs.cache
+C:\Users\mwats\Documents\GitHub\CozmoAPI\CozmoAPIConsole\CozmoAPIConsole\cozmoapi\obj\x86\Debug\cozmoapi.csproj.CopyComplete
+C:\Users\mwats\Documents\GitHub\CozmoAPI\CozmoAPIConsole\CozmoAPIConsole\cozmoapi\obj\x86\Debug\cozmoapi.dll
+C:\Users\mwats\Documents\GitHub\CozmoAPI\CozmoAPIConsole\CozmoAPIConsole\cozmoapi\obj\x86\Debug\cozmoapi.pdb
